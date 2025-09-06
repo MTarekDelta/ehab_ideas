@@ -1,0 +1,362 @@
+[
+    {
+        "name": "Albert Einstein",
+        "field": "Physics",
+        "description": "Theoretical physicist, developed theory of relativity",
+        "birth_year": "1879",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:55"
+    },
+    {
+        "name": "Marie Curie",
+        "field": "Physics",
+        "description": "Physicist and chemist, pioneer in radioactivity research",
+        "birth_year": "1867",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:55"
+    },
+    {
+        "name": "Stephen Hawking",
+        "field": "Physics",
+        "description": "Theoretical physicist, expert on black holes",
+        "birth_year": "1942",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:55"
+    },
+    {
+        "name": "Richard Feynman",
+        "field": "Physics",
+        "description": "Theoretical physicist, quantum electrodynamics",
+        "birth_year": "1918",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:55"
+    },
+    {
+        "name": "Niels Bohr",
+        "field": "Physics",
+        "description": "Physicist, contributions to atomic structure and quantum theory",
+        "birth_year": "1885",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:55"
+    },
+    {
+        "name": "Dmitri Mendeleev",
+        "field": "Chemistry",
+        "description": "Chemist, created the periodic table",
+        "birth_year": "1834",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:56"
+    },
+    {
+        "name": "Linus Pauling",
+        "field": "Chemistry",
+        "description": "Chemist, work on chemical bonding",
+        "birth_year": "1901",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:56"
+    },
+    {
+        "name": "Dorothy Hodgkin",
+        "field": "Chemistry",
+        "description": "Chemist, X-ray crystallography pioneer",
+        "birth_year": "1910",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:56"
+    },
+    {
+        "name": "Robert Woodward",
+        "field": "Chemistry",
+        "description": "Organic chemist, synthetic chemistry",
+        "birth_year": "1917",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:56"
+    },
+    {
+        "name": "Rosalind Franklin",
+        "field": "Chemistry",
+        "description": "Chemist, X-ray crystallography of DNA",
+        "birth_year": "1920",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:56"
+    },
+    {
+        "name": "Charles Darwin",
+        "field": "Biology",
+        "description": "Naturalist, theory of evolution",
+        "birth_year": "1809",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:57"
+    },
+    {
+        "name": "Gregor Mendel",
+        "field": "Biology",
+        "description": "Biologist, father of genetics",
+        "birth_year": "1822",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:57"
+    },
+    {
+        "name": "Barbara McClintock",
+        "field": "Biology",
+        "description": "Geneticist, discovered genetic transposition",
+        "birth_year": "1902",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:57"
+    },
+    {
+        "name": "Francis Crick",
+        "field": "Biology",
+        "description": "Molecular biologist, co-discovered DNA structure",
+        "birth_year": "1916",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:57"
+    },
+    {
+        "name": "Jane Goodall",
+        "field": "Biology",
+        "description": "Primatologist, studied chimpanzees",
+        "birth_year": "1934",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:57"
+    },
+    {
+        "name": "Isaac Newton",
+        "field": "Mathematics",
+        "description": "Mathematician and physicist, calculus",
+        "birth_year": "1643",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:58"
+    },
+    {
+        "name": "Leonhard Euler",
+        "field": "Mathematics",
+        "description": "Mathematician, graph theory and analysis",
+        "birth_year": "1707",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:58"
+    },
+    {
+        "name": "Emmy Noether",
+        "field": "Mathematics",
+        "description": "Mathematician, abstract algebra",
+        "birth_year": "1882",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:58"
+    },
+    {
+        "name": "Srinivasa Ramanujan",
+        "field": "Mathematics",
+        "description": "Mathematician, number theory",
+        "birth_year": "1887",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:58"
+    },
+    {
+        "name": "Alan Turing",
+        "field": "Mathematics",
+        "description": "Mathematician, theoretical computer science",
+        "birth_year": "1912",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:58"
+    },
+    {
+        "name": "Ada Lovelace",
+        "field": "Computer Science",
+        "description": "First computer programmer",
+        "birth_year": "1815",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:59"
+    },
+    {
+        "name": "John von Neumann",
+        "field": "Computer Science",
+        "description": "Computer scientist, von Neumann architecture",
+        "birth_year": "1903",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:59"
+    },
+    {
+        "name": "Grace Hopper",
+        "field": "Computer Science",
+        "description": "Computer scientist, developed first compiler",
+        "birth_year": "1906",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:59"
+    },
+    {
+        "name": "Donald Knuth",
+        "field": "Computer Science",
+        "description": "Computer scientist, algorithms analysis",
+        "birth_year": "1938",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:59"
+    },
+    {
+        "name": "Tim Berners-Lee",
+        "field": "Computer Science",
+        "description": "Computer scientist, invented the World Wide Web",
+        "birth_year": "1955",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:01:59"
+    },
+    {
+        "name": "Hippocrates",
+        "field": "Medicine",
+        "description": "Ancient Greek physician, father of medicine",
+        "birth_year": "460 BC",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:00"
+    },
+    {
+        "name": "Alexander Fleming",
+        "field": "Medicine",
+        "description": "Physician, discovered penicillin",
+        "birth_year": "1881",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:00"
+    },
+    {
+        "name": "Jonas Salk",
+        "field": "Medicine",
+        "description": "Physician, developed polio vaccine",
+        "birth_year": "1914",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:00"
+    },
+    {
+        "name": "Florence Nightingale",
+        "field": "Medicine",
+        "description": "Nurse, founder of modern nursing",
+        "birth_year": "1820",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:00"
+    },
+    {
+        "name": "Andreas Vesalius",
+        "field": "Medicine",
+        "description": "Physician, father of modern anatomy",
+        "birth_year": "1514",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:00"
+    },
+    {
+        "name": "Nikola Tesla",
+        "field": "Engineering",
+        "description": "Electrical engineer, AC power systems",
+        "birth_year": "1856",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:01"
+    },
+    {
+        "name": "Thomas Edison",
+        "field": "Engineering",
+        "description": "Inventor and engineer, light bulb and phonograph",
+        "birth_year": "1847",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:01"
+    },
+    {
+        "name": "Gustave Eiffel",
+        "field": "Engineering",
+        "description": "Civil engineer, designed Eiffel Tower",
+        "birth_year": "1832",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:01"
+    },
+    {
+        "name": "Hedy Lamarr",
+        "field": "Engineering",
+        "description": "Inventor, frequency-hopping spread spectrum",
+        "birth_year": "1914",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:01"
+    },
+    {
+        "name": "James Watt",
+        "field": "Engineering",
+        "description": "Mechanical engineer, improved steam engine",
+        "birth_year": "1736",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:01"
+    },
+    {
+        "name": "Galileo Galilei",
+        "field": "Astronomy",
+        "description": "Astronomer, telescope observations",
+        "birth_year": "1564",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:02"
+    },
+    {
+        "name": "Johannes Kepler",
+        "field": "Astronomy",
+        "description": "Astronomer, laws of planetary motion",
+        "birth_year": "1571",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:02"
+    },
+    {
+        "name": "Edwin Hubble",
+        "field": "Astronomy",
+        "description": "Astronomer, expanding universe",
+        "birth_year": "1889",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:02"
+    },
+    {
+        "name": "Carl Sagan",
+        "field": "Astronomy",
+        "description": "Astronomer, planetary scientist",
+        "birth_year": "1934",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:02"
+    },
+    {
+        "name": "Vera Rubin",
+        "field": "Astronomy",
+        "description": "Astronomer, dark matter research",
+        "birth_year": "1928",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:02"
+    },
+    {
+        "name": "Sigmund Freud",
+        "field": "Psychology",
+        "description": "Psychologist, psychoanalysis founder",
+        "birth_year": "1856",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:03"
+    },
+    {
+        "name": "B.F. Skinner",
+        "field": "Psychology",
+        "description": "Psychologist, behaviorism",
+        "birth_year": "1904",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:03"
+    },
+    {
+        "name": "Jean Piaget",
+        "field": "Psychology",
+        "description": "Psychologist, cognitive development theory",
+        "birth_year": "1896",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:03"
+    },
+    {
+        "name": "Albert Bandura",
+        "field": "Psychology",
+        "description": "Psychologist, social learning theory",
+        "birth_year": "1925",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:03"
+    },
+    {
+        "name": "Elizabeth Loftus",
+        "field": "Psychology",
+        "description": "Psychologist, memory research",
+        "birth_year": "1944",
+        "source": "Wikipedia",
+        "scraped_at": "2025-09-06 09:02:03"
+    }
+]
